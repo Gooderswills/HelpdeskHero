@@ -1,0 +1,4 @@
+print("Hello and welcome to Helpdesk Hero, this is a text based game where you are an IT support employee, work through tickets and try and keep the company running!")
+
+name = input("Hi there you must be new, what is your name? ")
+print("Nice to meet you", name , "I am Will, your manager and will help you get started on your first day")
