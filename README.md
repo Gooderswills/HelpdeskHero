@@ -10,7 +10,9 @@ If you want to get into an IT job, then this game is a good staring point with r
 
 ### How to play?
 
-To play all you need to do is follow this link: (add when finished project)
+1. Clone the repository or download main.py
+2. Open terminal and run `pip install customtkinter`
+3. run main.py
 
 
 **Thanks for playing, I hope you enjoyed it and if there are any bugs or errors feel free to contact me on [slack](https://hackclub.enterprise.slack.com/team/U0B7CJSUEG7) or report an issue on the [github page](https://github.com/Gooderswills/HelpdeskHero/issues)**
