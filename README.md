@@ -8,7 +8,7 @@ It's very simple, toplay all you need to do is to follow the storyline and answe
 
 If you want to get into an IT job, then this game is a good staring point with realistic scenarios and quizzes to help you practice
 
-### How to play?
+# How to play?
 
 1. Clone the repository or download main.py
 2. Run main.py
